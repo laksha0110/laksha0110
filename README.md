@@ -13,7 +13,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laksha0110&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=laksha0110&theme=tokyonight)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=laksha0110&theme=tokyo-night)
 
 <!--
