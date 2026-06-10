@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Laksha</h1>
 
-## 📊 GitHub Stats
+## Analytics
 
 ![Laksha's Stats](https://github-readme-stats.vercel.app/api?username=laksha0110&show_icons=true&theme=tokyonight)
 
