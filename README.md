@@ -4,7 +4,8 @@
   <img src="https://github.com/user-attachments/assets/568a2482-24ca-4f5d-8d2c-0d67a6fed973" width="900" alt="Minecraft Sakura Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Laksha</h1>
+
+
 
 ## Analytics
 
@@ -12,6 +13,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laksha0110&layout=compact&theme=tokyonight)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=laksha0110&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=laksha0110&theme=tokyo-night)
 
 <!--
 **laksha0110/laksha0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
