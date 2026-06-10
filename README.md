@@ -6,6 +6,11 @@
 
 <h1 align="center">Hi 👋, I'm Laksha</h1>
 
+## 📊 GitHub Stats
+
+![Laksha's Stats](https://github-readme-stats.vercel.app/api?username=laksha0110&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laksha0110&layout=compact&theme=tokyonight)
 
 
 <!--
