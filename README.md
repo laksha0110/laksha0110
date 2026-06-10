@@ -1,4 +1,12 @@
-## Hi there 👋
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/568a2482-24ca-4f5d-8d2c-0d67a6fed973" width="900" alt="Minecraft Sakura Banner">
+</p>
+
+<h1 align="center">Hi 👋, I'm Laksha</h1>
+
+
 
 <!--
 **laksha0110/laksha0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
