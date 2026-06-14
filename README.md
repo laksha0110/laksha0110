@@ -9,12 +9,24 @@
 
 ## Analytics
 
-![Laksha's Stats](https://github-readme-stats.vercel.app/api?username=laksha0110&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laksha0110&layout=compact&theme=tokyonight)
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=laksha0110&theme=tokyo-night)
+
+<h2>🐍 Contributions</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/laksha0110/laksha0110/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/laksha0110/laksha0110/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <!--
 **laksha0110/laksha0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
