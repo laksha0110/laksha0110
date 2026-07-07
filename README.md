@@ -10,8 +10,8 @@
 ## Analytics
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laksha0110&layout=compact&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laksha0110&layout=compact&theme=tokyonight)]
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=laksha0110&theme=tokyo-night)
 
